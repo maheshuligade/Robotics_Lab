@@ -136,16 +136,15 @@
 			</div>
 
 		</nav>
-
+		<footer class="container-fluid text-center" style="margin-top:30px;padding:0px;margin-bottom:0px;">
+			<p>	
+				<a href="#mainpage" tilte="To Top">
+				<span class="glyphicon glyphicon-chevron-up"></span>
+				</a>
+			</p>
+			
+				<a href="/about"><strong>&copy Robotics Lab</strong></a> 
+			</p>
+		</footer>
 	</body>
-	<footer class="container-fluid text-center" >
-		<p>	
-			<a href="#mainpage" tilte="To Top">
-			<span class="glyphicon glyphicon-chevron-up"></span>
-			</a>
-		</p>
-		
-			<a href="/about"><strong>&copy Robotics Lab</strong></a> 
-		</p>
-	</footer>
 </html>

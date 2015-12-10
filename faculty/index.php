@@ -62,7 +62,7 @@
 				border-color: transparent;;
 				color: #ffffff !important;
 			}
-			.col-sm-4,.col-xs-12
+			.col-sm-4,.col-xs-12 , .col-lg-12  ,.col-sm-12
 			{
 
 				display: :block;
@@ -90,7 +90,7 @@
 			}
 			.container-fluid ul
 			{
-				text-align: center;
+				/*text-align: center;*/
 				padding: 0px;
 			}
 			.container-fluid li
@@ -105,6 +105,11 @@
 			{
 				background-color: #f6f6f6;
 			}
+			.profile-pic
+			{
+				border-radius: 50%;
+			}
+
 
 		</style>
 	</head>
@@ -136,16 +141,37 @@
 			</div>
 
 		</nav>
+		<div class="container-fluid">
+			<div class="col-lg-12 col-sm-12">
+				<div>
+					<figure class="profile-pic">
+						<img src="/images/dr_sudheer_ap.jpg">
+					</figure>
+					<div >
+						<h2>Dr.Sudheer A.P.</h2>
+						<div >
+							Assistant Professor</br>Faculty in charge of RIG</br>
+							Lab in charge of Mechatronics / Robotics Lab</br>Mechanical Engineering Department</br>NIT Calicut</br>
+							<a href="http://nitc.ac.in/index.php/?url=users/view/215/12/3" target="_blank">Link to NITC SITE</a>
+						</div>
+					</div>		
 
+
+
+				</div>
+
+
+			</div>
+		</div>
+		<footer class="container-fluid text-center" style="margin-top:30px;padding:0px;margin-bottom:0px;">
+			<p>	
+				<a href="#mainpage" tilte="To Top">
+				<span class="glyphicon glyphicon-chevron-up"></span>
+				</a>
+			</p>
+			
+				<a href="/about"><strong>&copy Robotics Lab</strong></a> 
+			</p>
+		</footer>
 	</body>
-	<footer class="container-fluid text-center" >
-		<p>	
-			<a href="#mainpage" tilte="To Top">
-			<span class="glyphicon glyphicon-chevron-up"></span>
-			</a>
-		</p>
-		
-			<a href="/about"><strong>&copy Robotics Lab</strong></a> 
-		</p>
-	</footer>
 </html>
