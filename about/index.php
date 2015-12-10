@@ -110,7 +110,7 @@
 	</head>
 	
 	<body id="mainpage" data-spy="scroll" data-target=".navbar" data-offset:"50" class="bg-grey">
-		<nav class="navbar navbar-default navbar-fixed-top">
+				<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainpageNavbar">
@@ -124,7 +124,6 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#mainpage">Home</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/faculty">Faculty</a></li>
-
 						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#news_events">News Events</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="http://www.rignitc.com" target="_blank">RIG-NITC</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/lab">Lab</a></li>
@@ -136,7 +135,6 @@
 			</div>
 
 		</nav>
-
 	</body>
 	<footer class="container-fluid text-center" >
 		<p>	

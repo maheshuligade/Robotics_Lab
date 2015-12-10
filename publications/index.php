@@ -123,6 +123,8 @@
 				<div class="collapse navbar-collapse" id="mainpageNavbar" >
 					<ul class="nav navbar-nav navbar-right">
 						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#mainpage">Home</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/faculty">Faculty</a></li>
+
 						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#news_events">News Events</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="http://www.rignitc.com" target="_blank">RIG-NITC</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/lab">Lab</a></li>
@@ -143,7 +145,7 @@
 			</a>
 		</p>
 		
-			<a href="/blame"><strong>&copy Robotics Lab</strong></a> 
+			<a href="/about"><strong>&copy Robotics Lab</strong></a> 
 		</p>
 	</footer>
 </html>
