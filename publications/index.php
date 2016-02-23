@@ -128,8 +128,9 @@
 						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#news_events">News Events</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="http://www.rignitc.com" target="_blank">RIG-NITC</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/lab">Lab</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/gallary">Gallary</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/gallery">Gallery</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/publications">Publications</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/research">Research</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#contact_us">Contact Us</a></li>
 					</ul>
 				</div>

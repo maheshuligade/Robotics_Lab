@@ -141,23 +141,13 @@
 
 
 		<div class="container-fluid">
+			<h2>PHD Research Work:</h2>
 			<div class="row">
-				<div class="col-sm-8">
-					<h2>PLC Trainer Kit</h2>
-					<p>
-						<h4>Make: MTAB ENGINEERS PVT LTD, CHENNAI,INDIA</h4>
-						<h4>Cost: 3.3lakhs Year: 1999</h4>
-						<h4>Specifications:</h4>
-						<ul>
-							
-							<li>Siemens PLC model S7-214; Total Digital inputs-22, Digital output-18; Analog Input-2, Analog Output-1.</li>
-							<li>Step 7/Microsoftware: Digital Display TD200.</li>
-							<li>Static Module, Sensor Module, Relay Module,5 Star-Delta Module and Conveyor Module and Pnematic Module.</li>
-						</ul>
-					</p>
-				</div>
 				<div class="col-sm-4">
-					<img src="/images/plc.jpg">
+					<h4>1.Design and Development of an Electrical Transmission Line Inspection Robot.</h4>				
+				</div>
+				<div class="col-sm-8">
+					<img src="/images/Line_Inspection.png" width=60%;>
 				</div>
 			</div>
 		</div>
@@ -165,19 +155,13 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="/images/pctrainer.jpg">
+					<img src="/images/q_bot.png">
 				</div>
 				<div class="col-sm-8">
-					<h2>Process Control Trainer</h2>
+			
+					<h3>2.Simulation and experimentation for navigation of wheeled mobile robot with application of image processing</h3>
 					<p>
-						<h4>Make: ANSHUMAN TECH PVT.LTD.,PUNE,INDIA.</h4>
-						<h4>Cost: 1.3lakhs Year: 1999</h4>
-						<h4>Specifications:</h4>
-						<ul>
-							
-							<li>Electro Mechanical Setup.</li>
-							<li>Sensors-PH-Sensor,Conductivity Sensor,Flowmeter, Humidity Sensor, and Smoke Sensor.</li>
-						</ul>
+						
 					</p>
 				</div>
 				
@@ -185,25 +169,18 @@
 		</div>
 		<hr>
 		
+		
 		<div class="container-fluid">
+			<h2>M-Tech Research Work:</h2>
 			<div class="row">
 				<div class="col-sm-8">
-					<h2>Scorbot Erv Robot</h2>
+					<h3>1. Performance Analysis and Parameter Optimization of Desktop 3D Printer Using Screw Based Extrusion</h3>
 					<p>
-						<h4>Make: ESHED ROBOTEC, ISRAEL.</h4>
-						<h4>Cost: 4.2 lakhs. Year:1992</h4>
-						<h4>Specifications:</h4>
-						<ul>
-							
-							<li>Five DOF+ Servo Gripper with Teach Pendant ; Max Reach -610mm.</li>
-							<li>Base Rotation-310 Degrees,Shoulder- ?130/-35 Degrees,Elbow- ?130Degrees, Wrist- ?130Degrees.</li>
-							<li>Pay Load-1Kg.</li>
 
-						</ul>
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/scrbt.jpg">
+					<img src="/images/3D-Printer.png" width=80%;>
 				</div>
 				
 			</div>
@@ -212,47 +189,44 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="/images/pnematics.jpg">
+					<img src="/images/Drilling_Operation.png" width=60%;>
 				</div>
 				<div class="col-sm-8">
-					<h2>Pnematic Trainer Kit:</h2>
+					<h3>2.Design and Fabrication of 1T2R Parallel Robotic Manipulator for Drilling Operation</h3>
 					<p>
-						<h4>Make: FESTO CONTROLS PVT LTD, BANGALORE, INDIA.</h4>
-						<h4>Cost: 4.07 lakhs. Year: 2005</h4>
-						<h4>Specifications:</h4>
-						<ul>
-							
-							<li>Jun Air compressor-Out put Pressure-8bar, Speed of rotation- 2900rpm; Max. Operation-15min on/15min off 2.Profile plate and Stand ,Compressed air filter unit with pressure regulator and various types of Pressure control valves, cylinders, flow control valves and PLC.</li>
-						</ul>
+
 					</p>
 				</div>
 				
 			</div>
 		</div>
 		<hr>
-
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-8">
+					<h3>3.Design, Fabrication and Control of Bio-Inspired Robot for Electrical Line Inspection</h3>
+					<p>
+						
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<img src="/images/Line_Inspection_2.png" width=60%;>
+				</div>
+				
+			</div>
+		</div>
+		<hr>
 
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-8">
-					<h2>Mini Robot With Software</h2>
+					<h3>4.Design and Development of an Autonomous Transmission Line Inspection Robot with Obstacle Navigation Strategy</h3>
 					<p>
-						<h4>Make: MTAB ENGINEERS PVT LTD,CHENNAI, INDIA.</h4>
-						<h4>Cost: 1.8 lakhs. Year: 2008</h4>
-						<h4>Specifications:</h4>
-						<ul>
-							
-							<li>Five DOF+ Gripper Open & Close</li>
-							<li>Number of Stepper Motors : 5 Nos</li>
-							<li>Payload : 250 gms</li>
-							<li>Link Rotation: Waist- +300 degrees, Shoulder-+90 degrees, Elbow – +90 degrees Pitch – +180 degrees and Roll- +200 degrees </li>
-							<li>Controller : PC based Stepper Control algorithm.</li>
-
-						</ul>
+						
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/scrbt.jpg">
+					<img src="/images/Line_Inspection_3.png" width=60%;>
 				</div>
 				
 			</div>
@@ -261,19 +235,12 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="/images/rcs.jpg">
+					<img src="/images/Tool_Positioning.png" width=70%;>
 				</div>
 				<div class="col-sm-8">
-					<h2>Reconfigurable Universal Robot Kit- RCS-6 With Software</h2>
+					<h3>5.Tool Positioning for Vision Based Welding Using a Mobile Robotic Manipulator</h3>
 					<p>
-						<h4>Make: FALCON,MUMBAI, INDIA.</h4>
-						<h4>Cost: 1.15 lakhs. Year: 2008</h4>
-						<h4>Specifications:</h4>
-						<ul>
-							
-							<li>ypes of Robots reconfigured : Snake, Chemist, Fingers, Golfer, Coffee Maker, Bubbler,Strider, Dancer, Thrower.</li>
-							<li>Servo Motor Specifications :Range of Motion Per Axis : Max. 180 deg : Accuracy of Motions : 0.72 deg for 180 deg Range.</li>
-						</ul>
+						
 					</p>
 				</div>
 				
@@ -285,22 +252,116 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-8">
-					<h2>Reconfigurable Mobile Programmble Robot Kit</h2>
+					<h3>6.Real Time Human Detection and Tracking with Simultaneous Localization and Mapping From a Mobile Armed Robot</h3>
 					<p>
-						<h4>Make: LEGO GROUP, DENMARK</h4>
-						<h4>Cost: 1.6 lakhs. Year: 2008</h4>
-						<h4>Specifications:</h4>
-						<ul>
-							
-							<li>Programmable 32-bit brick, including Bluetooth wireless communication Minimum 4 input, 3 output ports. 6-wire digital platform. </li>
-							<li>8-bit AVR microcontroller and 32-bit ARM7 microcontroller</li>
-							<li>3 Servo Motors with built-in rotation sensor.</li>
-							<li>Lego Mindstorms Education NXT software . 5. Sound sensor, ultrasonic sensor and Light sensor. </li>
-						</ul>
+					
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/lego.jpg">
+					<img src="/images/Real_Time_Human_Detector.png" width=70%;>
+				</div>
+				
+			</div>
+		</div>
+		<hr>
+		<div class="container-fluid">
+			<h2>B-Tech Research Work:</h2>
+			<div class="row">
+				<div class="col-sm-8">
+					<h3>1.Simultaneous localization and mapping loop closure detection in indoor environment</h3>
+					<p>
+					
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<img src="/images/SLAM.png" width=70%;>
+				</div>
+				
+			</div>
+		</div>
+		<hr>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-8">
+					<h3>2.3D printer</h3>
+					<p>
+					
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<img src="/images/3D_Printer_2.png" width=70%;>
+				</div>
+				
+			</div>
+		</div>
+		<hr>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-8">
+					<h3>3.Rubik’s Cube Solving Robot</h3>
+					<p>
+					
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<img src="/images/Rubics_Cube_Solver.png" width=70%;>
+				</div>
+				
+			</div>
+		</div>
+		<hr><div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-8">
+					<h3>4.Wall Climber Robot</h3>
+					<p>
+					
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<img src="/images/Wall_Climber.png" width=70%;>
+					<img src="/images/Wall_Climber_2.png" width=70%;>
+				</div>
+				
+			</div>
+		</div>
+		<hr><div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-8">
+					<h3>5.Shopbot</h3>
+					<p>
+					
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<img src="/images/Shopbot.png" width=70%;>
+				</div>
+				
+			</div>
+		</div>
+		<hr><div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-8">
+					<h3>6.Home Automation Using IR Communication</h3>
+					<p>
+					
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<img src="/images/Home_Automation.png" width=70%;>
+				</div>
+				
+			</div>
+		</div>
+		<hr><div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-8">
+					<h3>7.Home Automation Using IR Communication</h3>
+					<p>
+					
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<img src="/images/DTMF.png" width=70%;>
 				</div>
 				
 			</div>
