@@ -138,7 +138,7 @@
 		</nav>
 
 		<div class="jumbotron text-center ">
-			<h1>Robotics Lab</h1>
+			<h1>Robotics<br>/Mechatronics Lab</h1>
 			<p>National Institute of Technology,Calicut</p>
 
 		</div>
