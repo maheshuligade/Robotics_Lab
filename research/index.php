@@ -206,7 +206,7 @@
 				<div class="col-sm-8">
 					<h3>3.Design, Fabrication and Control of Bio-Inspired Robot for Electrical Line Inspection</h3>
 					<p>
-						
+						Power transmission and distribution networks are critical to the progress of any nation. They necessitate regular inspection and maintenance. The transmission line inspection is usually done by a ground crew or with the aid of a helicopter. However, these methods have many disadvantages such as long inspection cycle, high working intensity, huge expense and high level of danger. A recent development in the field of robotics is the use of robots suspended from wire for power line inspection. These robots are designed to perform inspection while moving on the transmission line. There are robots which can move along straight lines, however, robots which are capable of crossing from straight line to jumper line and vice versa are not available till date.  This work focuses on a transmission line inspection robot which can move along straight line and jumper line with special attention to crossing from straight line to the jumper line. The scope of this work includes the design and development of a transmission line inspection robot, to make it autonomous and equipped with necessary electric and electronic circuits for live line inspection.
 					</p>
 				</div>
 				<div class="col-sm-4">
@@ -222,10 +222,15 @@
 				<div class="col-sm-8">
 					<h3>4.Design and Development of an Autonomous Transmission Line Inspection Robot with Obstacle Navigation Strategy</h3>
 					<p>
-						
+						Power generation and transmission are the central pillars of any economy in 21st century. Most of the developed countries have their own autonomous sources for power generation. In addition to this they also have an efficient transmission network which ensures an uninterrupted supply of power with minimum losses. Robotic line inspection techniques have been implemented in many parts of the world for detecting faults such as corrosion and cracking in transmission lines for reducing losses through maintenance. Even though India is having abundant resources, it is still lagging behind other nations in robotic transmission line inspection technologies. Minimising transmission losses in high voltage transmission lines is the most important requirement in industrial as well as domestic sector. Hence, an efficient method for inspection and maintenance of transmission lines has to be used for ensuring continuous power supply and reducing transmission losses.
+					</p>
+					<p>
+						The aim of the project is to design, fabricate and control a bio-inspired robot for inspection of high voltage transmission line. The robot being designed can move large distances through straight line wires and are capable of overcoming obstacles along the path like cable spacers, dampers etc. Moreover they can cross suspension and tension towers via jumper cables.The kinematic, inverse kinematic, static and dynamic models of the robot are developed. A conceptual model of robot mechanism is developed and fabricated. Kinematic modelling is done by Denavit-Hartenberg method and dynamic analysis is done by Lagrangian formulation. Actuator selection is done based on the results obtained from dynamic analysis.
+					</p>
+
 					</p>
 				</div>
-				<div class="col-sm-4">
+				<div class="col-sm-4" style="margin-top:100px;">
 					<img src="/images/Line_Inspection_3.png" width=60%;>
 				</div>
 				
