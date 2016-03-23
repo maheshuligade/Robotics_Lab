@@ -138,7 +138,106 @@
 			</div>
 
 		</nav>
+		
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-8">
+					<h2>Nao Robot</h2>
+					<p>Nao is an autonomous, programmable humanoid robot developed by Aldebaran Robotics.
+						Nao robots are used for research and education purposes in numerous academic institutions worldwide.
+					</p>
+					<p>
+						<h4>Make: Aldebaran Robotics.</h4>
+						<h4>Specifications:</h4>
+						
+						<ul>	
+							<li>Nao V5 Evolution</li>
+							<li>Height	58 centimetres (23 in)</li>
+							<li>Weight	4.3 kilograms (9.5 lb)</li>
+							<li>Power supply	lithium battery providing 48.6 Wh</li>
+							<li>Autonomy	90 minutes (active use)</li>
+							<li>Degrees of freedom	25</li>
+							<li>CPU	Intel Atom @ 1.6 GHz</li>
+							<li>Built-in OS	NAOqi 2.0 (Linux-based)</li>
+							<li>Compatible OS	Windows, Mac OS, Linux</li>
+							<li>Programming languages	C++, Python, Java, MATLAB, Urbi, C, .Net</li>
+							<li>Sensors	Two HD cameras, four microphones, sonar rangefinder, two infrared emitters and receivers, inertial board, nine tactile sensors, eight pressure sensors</li>
+							<li>Connectivity	Ethernet, Wi-Fi</li>
+						</ul>
+					</p>
+				</div>
+				<div class="col-sm-4" style="margin-top:100px;">
+					<img src="/images/Nao.jpg" width="100%" height="80%" >
+				</div>
+			</div>
+		</div>
+		<hr>
+		
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-4" style="padding-top:200px;">
+					<img src="/images/Qbot.jpg">
+				</div>
+				<div class="col-sm-8">
+					<h2>Qbot 2</h2>
+					<p>
+						<h4>Make:Quanser</h4>
+					<p>
+						The Quanser QBot 2 for QUARC is an innovative open-architecture autonomous ground robot built on a 2-wheel mobile platform. Equipped with built-in sensors, a vision system, and accompanied by extensive courseware, the QBot 2 is ideally suited for teaching undergraduate and advanced robotics and mechatronics courses. 
+					</p>
+						<h4>Specifications:</h4>
+						<ul>
 
+							<li>Platform	Kobuki mobile base by Yujin Robot</li>
+							<li>Number of wheels :2</li>
+							<li>QBot 2 diameter	35 cm</li>
+							<li>QBot 2 height (with Kinect mounted)	27 cm</li>
+							<li>Battery life	3 hours</li>
+							<li>Maximum linear speed	0.7 m/s</li>
+							<li>Available payload	app. 4.5 kg</li>
+							<li>
+								<p >
+									Sensors included:
+								<br>
+								<ul style="padding-left:30px;">
+									<li>3 digital bumper sensors</li>
+									<li>3 digital wheel drop sensors</li>
+									<li>3 analog and digital cliff sensors</li>
+									<li>3-axis gyroscope</li>
+									<li>2 wheel encoder inputs</li>
+									<li>2 wheel speed outputs</li>
+									<li>2 digital LED outputs</li>
+									<li>4 digital power enable outputs</li>
+									<li>2 analog motor current inputs</li>
+									<li>3 digital buttons</li>
+									<li>2 overcurrent sensors</li>
+									<li>1 Z-axis angle measurement (heading)</li>
+									<li>1 battery voltage sensor</li>
+									<li>1 Kinect RGBD sensor</li>
+								</ul>
+								</p>
+							</li>
+							<li>Additional I/O channels available	8 reconfigurable digital I/O channels</li>
+							<li>4 analog input channels</li>
+							<li>2 encoder input channels</li>
+							<li>4 PWM output channels</li>
+							<li>1 SPI bus channel</li>
+							<li>1 UART serial port (interface 3.3 V serial device)</li>
+							<li>1 I≤C serial bus channel</li>
+
+							<li>On-board computer	Gumstix DuoVero Zephyr with integrated 802.11 b/g/n WiFi</li>
+							<li>Memory	1 GB DDR SDRAM, 32 MB Flash</li>
+							<li>QUARC maximum sample rate	1,000 Hz</li>
+							<li>Camera resolution	640 x 480</li>
+							<li>Depth sensing	11 bit</li>
+							<li>Depth sensor range	0.5 m - 6 m</li>
+						</ul>
+					</p>
+				</div>
+				
+			</div>
+		</div>
+		<hr>
 
 		<div class="container-fluid">
 			<div class="row">
@@ -306,6 +405,29 @@
 			</div>
 		</div>
 		<hr>
+
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-8">
+					<h2>Mac Pneumo Tutor</h2>
+					<p>
+						<h4>Specifications:</h4>
+						<ul>
+							
+							<li>MAC-PNEUMO-TUTOR is planned for Hands-ON training on all aspects of 'Pneumatics'-the science of compressed air. It is provided with facility to understand, apply and have trials on different sections of Pneumatics </li>
+						</ul>
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<img src="/images/Mac_Pneumo_Tutor.jpg" width="80%">
+				</div>
+				
+			</div>
+		</div>
+		<hr>
+
+
+
 		<footer class="container-fluid text-center" style="margin-top:30px;padding:0px;margin-bottom:0px;">
 			<p>	
 				<a href="#mainpage" tilte="To Top">
