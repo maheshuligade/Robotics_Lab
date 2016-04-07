@@ -370,7 +370,7 @@
 						<h4>Specifications:</h4>
 						<ul>
 							
-							<li>ypes of Robots reconfigured : Snake, Chemist, Fingers, Golfer, Coffee Maker, Bubbler,Strider, Dancer, Thrower.</li>
+							<li>Types of Robots reconfigured : Snake, Chemist, Fingers, Golfer, Coffee Maker, Bubbler,Strider, Dancer, Thrower.</li>
 							<li>Servo Motor Specifications :Range of Motion Per Axis : Max. 180 deg : Accuracy of Motions : 0.72 deg for 180 deg Range.</li>
 						</ul>
 					</p>
