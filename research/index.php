@@ -8,9 +8,9 @@
 		<meta content="Robotics Lab" description="NITC Robotics Lab">
 		<meta content="Robotics ,Lab,NITC" name="keywords">
 		<meta content="Mahesh Uligade" name="Author">
-		<script src="/jquery/jquery.min.js"></script>
-		<link rel="stylesheet" href="/css/bootstrap.min.css">	
-		<script src="/js/bootstrap.min.js"></script>
+		<script src="../jquery/jquery.min.js"></script>
+		<link rel="stylesheet" href="../css/bootstrap.min.css">	
+		<script src="../js/bootstrap.min.js"></script>
 
 		<style>
 /*		
@@ -122,17 +122,17 @@
 				</div>
 				<div class="collapse navbar-collapse" id="mainpageNavbar" >
 					<ul class="nav navbar-nav navbar-right">
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#mainpage">Home</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/faculty">Faculty</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../#mainpage">Home</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../faculty">Faculty</a></li>
 
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#news_events">News Events</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../#news_events">News Events</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="http://www.rignitc.com" target="_blank">RIG-NITC</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/lab">Lab</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/gallery">Gallery</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/publications">Publications</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/research">Research</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="../lab">Lab</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="../gallery">Gallery</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="../publications">Publications</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../research">Research</a></li>
 
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#contact_us">Contact Us</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../#contact_us">Contact Us</a></li>
 					</ul>
 				</div>
 			</div>
@@ -147,7 +147,7 @@
 					<h4>1.Design and Development of an Electrical Transmission Line Inspection Robot.</h4>				
 				</div>
 				<div class="col-sm-8">
-					<img src="/images/Line_Inspection.png" width=60%;>
+					<img src="../images/Line_Inspection.png" width=60%;>
 				</div>
 			</div>
 		</div>
@@ -155,7 +155,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="/images/q_bot.png">
+					<img src="../images/q_bot.png">
 				</div>
 				<div class="col-sm-8">
 			
@@ -180,7 +180,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/3D-Printer.png" width=80%;>
+					<img src="../images/3D-Printer.png" width=80%;>
 				</div>
 				
 			</div>
@@ -189,7 +189,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="/images/Drilling_Operation.png" width=60%;>
+					<img src="../images/Drilling_Operation.png" width=60%;>
 				</div>
 				<div class="col-sm-8">
 					<h3>2.Design and Fabrication of 1T2R Parallel Robotic Manipulator for Drilling Operation</h3>
@@ -210,7 +210,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/Line_Inspection_2.png" width=60%;>
+					<img src="../images/Line_Inspection_2.png" width=60%;>
 				</div>
 				
 			</div>
@@ -231,7 +231,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4" style="margin-top:100px;">
-					<img src="/images/Line_Inspection_3.png" width=60%;>
+					<img src="../images/Line_Inspection_3.png" width=60%;>
 				</div>
 				
 			</div>
@@ -240,7 +240,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="/images/Tool_Positioning.png" width=70%;>
+					<img src="../images/Tool_Positioning.png" width=70%;>
 				</div>
 				<div class="col-sm-8">
 					<h3>5.Tool Positioning for Vision Based Welding Using a Mobile Robotic Manipulator</h3>
@@ -263,7 +263,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/Real_Time_Human_Detector.png" width=70%;>
+					<img src="../images/Real_Time_Human_Detector.png" width=70%;>
 				</div>
 				
 			</div>
@@ -279,7 +279,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/SLAM.png" width=70%;>
+					<img src="../images/SLAM.png" width=70%;>
 				</div>
 				
 			</div>
@@ -294,7 +294,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/3D_Printer_2.png" width=70%;>
+					<img src="../images/3D_Printer_2.png" width=70%;>
 				</div>
 				
 			</div>
@@ -309,7 +309,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/Rubics_Cube_Solver.png" width=70%;>
+					<img src="../images/Rubics_Cube_Solver.png" width=70%;>
 				</div>
 				
 			</div>
@@ -323,8 +323,8 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/Wall_Climber.png" width=70%;>
-					<img src="/images/Wall_Climber_2.png" width=70%;>
+					<img src="../images/Wall_Climber.png" width=70%;>
+					<img src="../images/Wall_Climber_2.png" width=70%;>
 				</div>
 				
 			</div>
@@ -338,7 +338,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/Shopbot.png" width=70%;>
+					<img src="../images/Shopbot.png" width=70%;>
 				</div>
 				
 			</div>
@@ -352,7 +352,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/Home_Automation.png" width=70%;>
+					<img src="../images/Home_Automation.png" width=70%;>
 				</div>
 				
 			</div>
@@ -366,7 +366,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/DTMF.png" width=70%;>
+					<img src="../images/DTMF.png" width=70%;>
 				</div>
 				
 			</div>
@@ -379,7 +379,7 @@
 				</a>
 			</p>
 			
-				<a href="/about"><strong>&copy Robotics Lab</strong></a> 
+				<a href="../about"><strong>&copy Robotics Lab</strong></a> 
 			</p>
 		</footer>
 

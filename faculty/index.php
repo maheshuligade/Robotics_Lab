@@ -8,9 +8,9 @@
 		<meta content="Robotics Lab" description="NITC Robotics Lab">
 		<meta content="Robotics ,Lab,NITC" name="keywords">
 		<meta content="Mahesh Uligade" name="Author">
-		<script src="/jquery/jquery.min.js"></script>
-		<link rel="stylesheet" href="/css/bootstrap.min.css">	
-		<script src="/js/bootstrap.min.js"></script>
+		<script src="../jquery/jquery.min.js"></script>
+		<link rel="stylesheet" href="../css/bootstrap.min.css">	
+		<script src="../js/bootstrap.min.js"></script>
 
 		<style>
 /*		
@@ -21,7 +21,7 @@
 			.jumbotron
 			{
 
-				background: #11445E;// url(/images/backgroud_1.jpg) no-repeat fixed;
+				background: #11445E;// url(../images/backgroud_1.jpg) no-repeat fixed;
 				background-size: cover;
 				text-align:center;
 				height: 450px;
@@ -127,16 +127,16 @@
 				</div>
 				<div class="collapse navbar-collapse" id="mainpageNavbar" >
 					<ul class="nav navbar-nav navbar-right">
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#mainpage">Home</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/faculty">Faculty</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" 	href="../#mainpage">Home</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../faculty">Faculty</a></li>
 
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#news_events">News Events</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../#news_events">News Events</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="http://www.rignitc.com" target="_blank">RIG-NITC</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/lab">Lab</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/gallery">Gallery</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/publications">Publications</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/research">Research</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#contact_us">Contact Us</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="../lab">Lab</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="../gallery">Gallery</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="../publications">Publications</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../research">Research</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../#contact_us">Contact Us</a></li>
 					</ul>
 				</div>
 			</div>
@@ -146,7 +146,7 @@
 			<div class="col-lg-12 col-sm-12">
 				<div>
 					<figure class="profile-pic">
-						<img src="/images/dr_sudheer_ap.jpg">
+						<img src="../images/dr_sudheer_ap.jpg">
 					</figure>
 					<div >
 						<h2>Dr.Sudheer A.P.</h2>

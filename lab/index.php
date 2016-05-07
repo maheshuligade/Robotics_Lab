@@ -8,9 +8,9 @@
 		<meta content="Robotics Lab" description="NITC Robotics Lab">
 		<meta content="Robotics ,Lab,NITC" name="keywords">
 		<meta content="Mahesh Uligade" name="Author">
-		<script src="/jquery/jquery.min.js"></script>
-		<link rel="stylesheet" href="/css/bootstrap.min.css">	
-		<script src="/js/bootstrap.min.js"></script>
+		<script src="../jquery/jquery.min.js"></script>
+		<link rel="stylesheet" href="../css/bootstrap.min.css">	
+		<script src="../js/bootstrap.min.js"></script>
 
 		<style>
 /*		
@@ -21,7 +21,7 @@
 			.jumbotron
 			{
 
-				background: #11445E;// url(/images/backgroud_1.jpg) no-repeat fixed;
+				background: #11445E;// url(../images/backgroud_1.jpg) no-repeat fixed;
 				background-size: cover;
 				text-align:center;
 				height: 450px;
@@ -122,17 +122,17 @@
 				</div>
 				<div class="collapse navbar-collapse" id="mainpageNavbar" >
 					<ul class="nav navbar-nav navbar-right">
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#mainpage">Home</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/faculty">Faculty</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../#mainpage">Home</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../faculty">Faculty</a></li>
 
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#news_events">News Events</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../#news_events">News Events</a></li>
 						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="http://www.rignitc.com" target="_blank">RIG-NITC</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/lab">Lab</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/gallery">Gallery</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="/publications">Publications</a></li>
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/research">Research</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="../lab">Lab</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="../gallery">Gallery</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collpase" href="../publications">Publications</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../research">Research</a></li>
 
-						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="/#contact_us">Contact Us</a></li>
+						<li><a data-toggle="collapse" data-target=".navbar-collapse" href="../#contact_us">Contact Us</a></li>
 					</ul>
 				</div>
 			</div>
@@ -167,7 +167,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4" style="margin-top:100px;">
-					<img src="/images/Nao.jpg" width="100%" height="80%" >
+					<img src="../images/Nao.jpg" width="100%" height="80%" >
 				</div>
 			</div>
 		</div>
@@ -176,7 +176,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-4" style="padding-top:200px;">
-					<img src="/images/Qbot.jpg">
+					<img src="../images/Qbot.jpg">
 				</div>
 				<div class="col-sm-8">
 					<h2>Qbot 2</h2>
@@ -256,7 +256,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/plc.jpg">
+					<img src="../images/plc.jpg">
 				</div>
 			</div>
 		</div>
@@ -264,7 +264,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="/images/pctrainer.jpg">
+					<img src="../images/pctrainer.jpg">
 				</div>
 				<div class="col-sm-8">
 					<h2>Process Control Trainer</h2>
@@ -302,7 +302,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/scrbt.jpg">
+					<img src="../images/scrbt.jpg">
 				</div>
 				
 			</div>
@@ -311,7 +311,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="/images/pnematics.jpg">
+					<img src="../images/pnematics.jpg">
 				</div>
 				<div class="col-sm-8">
 					<h2>Pnematic Trainer Kit:</h2>
@@ -351,7 +351,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/scrbt.jpg">
+					<img src="../images/scrbt.jpg">
 				</div>
 				
 			</div>
@@ -360,7 +360,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="/images/rcs.jpg">
+					<img src="../images/rcs.jpg">
 				</div>
 				<div class="col-sm-8">
 					<h2>Reconfigurable Universal Robot Kit- RCS-6 With Software</h2>
@@ -399,7 +399,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/lego.jpg">
+					<img src="../images/lego.jpg">
 				</div>
 				
 			</div>
@@ -419,7 +419,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="/images/Mac_Pneumo_Tutor.jpg" width="80%">
+					<img src="../images/Mac_Pneumo_Tutor.jpg" width="80%">
 				</div>
 				
 			</div>
@@ -435,7 +435,7 @@
 				</a>
 			</p>
 			
-				<a href="/about"><strong>&copy Robotics Lab</strong></a> 
+				<a href="../about"><strong>&copy Robotics Lab</strong></a> 
 			</p>
 		</footer>
 
