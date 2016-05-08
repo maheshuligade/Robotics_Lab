@@ -146,7 +146,10 @@
 			<h2 style="margin-bottom:50px;text-align:center;" >News Events</h2>
 			<p >
 				<ul>
-					<li><span class="glyphicon glyphicon-star"></span> Site Launch</li>
+<!--					<li><span class"glyphicon glyphicon-star"></span> Site Launch</li>-->
+					<marquee id = "brochure" behavior="scroll" direction="left" scrollamount="6"  ><li>
+						<div onMouseOver = "document.getElementById('brochure').stop();" onMouseOut = "
+document.getElementById('brochure').start();"><span class="glyphicon glyphicon-star"></span><a href = "images/Brochure.pdf" target="_blank">National workshop on "ROBOTICS AND CONTROL" during 23rd to 27th,May 2016</a></div></li></marquee>
 				</ul>
 			</p>
 		</div>
